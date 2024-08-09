@@ -1,0 +1,2 @@
+# Handwritten-Digit-Recognition-Training-and-Evaluating-a-Neural-Network-numpy-no-TF-Keras-
+Here’s a concise description under 300 characters:  ---  This repo features a neural network for handwritten digit recognition built from scratch with `numpy`, without TensorFlow/Keras. It includes data preprocessing, model training, and evaluation, achieving ~89.9% accuracy on the MNIST dataset. Ideal for learning core neural network concepts.  --
