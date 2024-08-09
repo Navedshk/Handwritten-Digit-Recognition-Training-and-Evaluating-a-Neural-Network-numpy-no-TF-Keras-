@@ -76,21 +76,10 @@ The goal of this project is to build a neural network that can accurately classi
    test_prediction(0, W1, b1, W2, b2)
    ```
 
-## Example
-
-An example usage of the provided functions can be seen in the code snippets included in the project. Adjust the parameters and indices as needed for different results.
-
-## Contributing
-
-Feel free to contribute to this project by submitting pull requests or issues. Improvements, bug fixes, and additional features are welcome!
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [Your Email].
+For any questions or inquiries, please contact Naved Shaikh at Navedshaikh77920@gmail.com.
 
 ---
 
